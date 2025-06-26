@@ -26,6 +26,6 @@ This is Django webapp which can merge two PDF or more just by single click.
 
 - Merge
 
-![Test Image 7](https://github.com/ThiagoTorresFerrao/PDF-Merger/blob/master/output/2.PNG)
+![Test Image 7](https://github.com/ThiagoTorresFerrao/PDF-Merger/blob/main/output/2.PNG)
 
 - Download File
